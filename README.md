@@ -1,7 +1,7 @@
 ## Common Commands
 ```
 # Download code
-$ git clone xxxxxxxxxxxx
+$ git clone https://github.com/YueZhao2019/covid-information-system-frontend.git
 cd covid-information-system-frontend
 
 # Installation dependency
