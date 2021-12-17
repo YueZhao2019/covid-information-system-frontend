@@ -1,0 +1,42 @@
+#app {
+    height: 100%;
+    background: #f0f4fb;
+}
+
+.wrap{
+  padding: 20px;
+  text-align: left;
+  font-size: 20px;
+  .ivu-form-item-label{
+    width: 120px!important;
+  }
+  .ivu-form-item-content{
+    margin-left:120px!important;
+  }
+  .form-wrap{
+    width: 400px;
+  }
+  .content-wrap{
+    margin-top:50px; 
+  }
+}
+.table-param {
+    display: inline-block;
+    margin: 5px 20px 5px 0;
+}
+
+.table-param-label {
+    margin-right: 15px;
+    display: inline-block;
+    min-width: 72px;
+    text-align: right;
+}
+
+.table-param-input {
+    width: 200px;
+    display: inline-block;
+}
+
+.ivu-btn {
+    padding: 5px 15px 6px;
+}
