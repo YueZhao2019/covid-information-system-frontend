@@ -30,7 +30,7 @@ $ npm run build
 |   |-- main.js                      // Project entry
 ```
 
-## Diffrent accounts to login system
+## Different accounts to login system
 
 ```
 Administrator   // username:aa01     password:123456
